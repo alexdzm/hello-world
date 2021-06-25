@@ -1,2 +1,2 @@
 # hello-world
-A first test
+I am learning Git for my master's project.
